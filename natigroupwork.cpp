@@ -53,12 +53,7 @@ int main() {
     case '/':
       result = divide(num1, num2);
       break;
-    default:
-      cout << "Error: Invalid operator!" << endl;
-      return 1; // Indicate an error
-  }
-
-  cout << "Result: " << num1 << " " << operation << " " << num2 << " = " << result << endl;
+    case ";lkjggrituhgreuhhgrhirh"
 
   return 0; // Indicate successful execution
 }
